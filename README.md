@@ -1,11 +1,12 @@
 # 🏘️ Scraper de Imóveis - DFImóveis | Lucas Rodor
 
-Este projeto realiza a **coleta automática de imóveis à venda** no portal [DFImoveis.com.br](https://www.dfimoveis.com.br), usando **Selenium + Pandas**, trata os dados com expressões regulares e salva os resultados em:
+Este projeto realiza a **coleta automática de imóveis à venda** no portal [DFImoveis.com.br](https://www.dfimoveis.com.br), usando **Selenium + Pandas**, trata os dados com expressões regulares e salva os resultados em: 
+ 
 - ✅ Um arquivo Excel
 - ✅ Um banco de dados MySQL
 
-Esse projeto foi um avaliação da disciplina Projeto em Ciência de Dados II do curso 
-Ciência de Dados & Inteligência Artificial | IBMEC - DF, Ministrada pelo professor [Laerte Jun Takeuti](https://www.linkedin.com/in/laertejt/)
+Esse projeto foi uma avaliação da disciplina Projeto em Ciência de Dados II do curso Ciência de Dados & Inteligência Artificial | IBMEC - DF, Ministrada pelo professor [Laerte Jun Takeuti](https://www.linkedin.com/in/laertejt/)
+
 ---
 
 
